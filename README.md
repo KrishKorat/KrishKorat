@@ -1,6 +1,14 @@
-## Hi there 👋
+## 📊 GitHub Stats
+
+| GitHub Streak | Top Languages |
+|--------------|--------------|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=KrishKorat&theme=dark)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishKorat&theme=dark)](https://github.com/CelestialMist/github-readme-stats) |
+
+
 
 <!--
+## Hi there 👋
+
 **KrishKorat/KrishKorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
